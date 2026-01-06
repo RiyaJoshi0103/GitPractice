@@ -1,1 +1,1 @@
-//this is for conflict resolution
+//this is for conflict resolution technique
